@@ -8,6 +8,8 @@ nav
 }
 ul {
   list-style-type: none;
+  text-align: middle;
+  position: relative; 
   margin: 0;
   padding: 0;
   overflow: hidden;
