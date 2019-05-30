@@ -65,4 +65,9 @@ p
 	font-family: "Monospace", Courier New;
 	text-align:center;
 } 
-#form
+.form input[type="text"],
+.form textarea{
+	padding: 15px 5px;
+	box-sizing: border-box;
+	width: 100%;
+	border: 2px solid #ff0000
