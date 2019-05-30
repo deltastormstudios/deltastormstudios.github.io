@@ -49,28 +49,17 @@
 		<h3>CONTACT ME!</h3>
 		<p>Contact me easily by filling out this form below. v </p>
 	</div>
-	<div class="form>
-		    <div class="top-form"></div>
-			 <div class="inner-form">
-			    <div class="label">Name</div>
-			    <input type="text" placeholder="Delta">
-		    </div>
-			 <div class="inner-form">
-			    <div class="label">Email</div>
-			    <input type="text" placeholder="Example@gmail.com">
-		    </div>
-		    <div class="middle-form"></div>
-			    <div class="label">Subject</div>
-			    <input type="text" placeholder="Subject">
-		    </div>
-		   </div>
-		    <div class="bottom-form"></div>
-			    <div class="label">Your Message</div>
-			    <textarea placeholder="Type message here"></textarea>
-		    </div>
-		   </div>
-					      
-		<div class="btn">SEND MESSAGE</div>
+	<div class="contact-form>
+	   <form id="contact-form" method="post" action="">
+	   <input name="name" type="text" class="form-control" placeholder="Your Name" required>
+	   <br>
+	   <input name="email" type="email" class="form-control" placeholder="Your Email" 
+	   required><br>
+		
+           <textarea name="message" class="form-control" placeholder="Your Message" row="4" 
+           required></textarea><br>
+	   <input type="submit" class="form-contro submit" value="SEND MESSAGE">
+	</form> 	
 	</div>
 					    
 				 
