@@ -89,7 +89,7 @@ input
 }
 form .submit
 {
-	background: #ff5722
+	background: #8B0000
 	border-color: transparent;
 	color: #fff;
 	font-size: 20px;
@@ -97,6 +97,7 @@ form .submit
 	letter-spacing: 2px;
 	height: 50px;
 	margin-top: 20px;
+	border-radius: 10px;
 }
 form .submit: hover
 {
