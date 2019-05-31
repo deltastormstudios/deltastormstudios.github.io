@@ -4,11 +4,11 @@ html
 }
 nav
 {
-	text-align: center;
+	text-align: middle;
 }
 ul {
   list-style-type: none;
-  text-align: middle;
+  text-align: center;
   position: relative; 
   margin: 0;
   padding: 0;
