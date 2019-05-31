@@ -98,7 +98,7 @@ form .submit
 	height: 50px;
 	margin-top: 20px;
 }
-form .submit:hover
+form .submit: hover
 {
 	background-color: #8B0000;
 	cursor: cursor;
