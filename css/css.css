@@ -106,8 +106,20 @@ form .submit:hover
 {
 	position: relative;
 	margin: 50px auto;
+	padding: 40px 0;
 	width: 1000px;
 	
+}
+.timeline ul
+{
+	margin: 0;
+	padding: 0;
+}
+.timeline ul li
+{
+	line-height: normal;
+	position: relative;
+	width: 50%;
 }
 
 
