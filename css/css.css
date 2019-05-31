@@ -78,7 +78,7 @@ form
 	border: none;
 	outline: none;
 	border-bottom: 1px solid red;
-	color: #8B0000;
+	color: #fff;
 	font-size: 18px;
 	margin-bottom:16px;	
 }
@@ -100,7 +100,7 @@ form .submit
 }
 form .submit: hover
 {
-	background-color: #8B0000;
+	background-color: #fff;
 	cursor: cursor;
 }
 .timeline
