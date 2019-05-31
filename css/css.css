@@ -100,7 +100,7 @@ form .submit
 form .submit:hover
 {
 	background-color: #8B0000;
-	cursor: hand;
+	cursor: cursor;
 }
 
 
