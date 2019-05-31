@@ -69,8 +69,7 @@ form
 {
 	margin-top: 50px;
 	transition: all 4s ease-in-out
-}
-.form-control
+}#8B0000;.form-control
 {
 	width: 600px;
 	background: transparent;
@@ -110,6 +109,16 @@ form .submit:hover
 	width: 1000px;
 	
 }
+.timeline:before
+{
+	content: '';
+	position: absolute;
+	left 50%;
+	width: 2px;
+	height: 100%;
+	background: #8B0000;
+}
+
 .timeline ul
 {
 	margin: 0;
@@ -117,11 +126,17 @@ form .submit:hover
 }
 .timeline ul li
 {
-	line-height: normal;
+	list-style: none;
 	position: relative;
 	width: 50%;
+	padding: 20px 40px;
+	box-sizing: border-box;
 }
-
+.timeline ul li:nth-child(odd)
+{
+	float: left;
+	text-allign: right;
+}
 
 
 
