@@ -13,7 +13,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: grey;
+  background-color: maroon;
 }
 
 li {
@@ -22,7 +22,7 @@ li {
 
 li a {
 	display: inline-block;
-	color: #8B0000;
+	color: #fff;
 	text-align: center;
 	padding: 10px;
 	text-decoration: none;
