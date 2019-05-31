@@ -173,25 +173,25 @@ form .submit:hover
 	border-radius: 50%;
 	box-shadow: 0 0 0 3px rgba(255,0,0,0.2);
 }
-.timeline ul li h3
+.timeline ul2 li h3
 {
 	margin: 0;
 	padding: 0;
 	font-weight: 600;
 	color: rgba(255,0,0,1);
 }
-.timeline ul li p
+.timeline ul2 li p
 {
 	margin: 10px 0 0;
 	padding: 0;
 }
-.timeline ul li .time h4
+.timeline ul2 li .time h4
 {
 	margin: 0;
 	padding: 0;
 	font-size: 14px;
 }
-.timeline ul li:nth-child(odd) .time
+.timeline ul2 li:nth-child(odd) .time
 {
 	position: absolute;
 	top: 12px;
