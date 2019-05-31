@@ -2,7 +2,10 @@ html
 {
 	background-color: black;
 }
-
+nav
+{
+	text-align: center;
+}
 ul {
   list-style-type: none;
   position: relative;
