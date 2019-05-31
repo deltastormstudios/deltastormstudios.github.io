@@ -69,7 +69,9 @@ form
 {
 	margin-top: 50px;
 	transition: all 4s ease-in-out
-}#8B0000;.form-control
+	#8B0000;
+}
+.form-control
 {
 	width: 600px;
 	background: transparent;
