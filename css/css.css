@@ -120,12 +120,12 @@ form .submit:hover
 	background: #8B0000;
 }
 
-.timeline ul
+.timeline ul2
 {
 	margin: 0;
 	padding: 0;
 }
-.timeline ul li
+.timeline ul2 li
 {
 	list-style: none;
 	position: relative;
@@ -133,13 +133,13 @@ form .submit:hover
 	padding: 20px 40px;
 	box-sizing: border-box;
 }
-.timeline ul li:nth-child(odd)
+.timeline ul2 li:nth-child(odd)
 {
 	float: left;
 	text-allign: right;
 	clear: both;
 }
-.timeline ul li:nth-child(even)
+.timeline ul2 li:nth-child(even)
 {
 	float: right;
 	text-allign: left;
@@ -149,7 +149,7 @@ form .submit:hover
 {
 	padding-bottom: 20 px;
 }
-.timeline ul li:nth-child(odd):before
+.timeline ul2 li:nth-child(odd):before
 {
 	content: '';
 	position: absolute;
@@ -161,7 +161,7 @@ form .submit:hover
 	border-radius: 50%;
 	box-shadow: 0 0 0 3px rgba(255,0,0,0.2);
 }
-.timeline ul li:nth-child(even):before
+.timeline ul2 li:nth-child(even):before
 {
 	content: '';
 	position: absolute;
@@ -203,7 +203,7 @@ form .submit:hover
 	border-radius: 18px;
 	box-shadow: 0 0 0 3px rgba(255,0,0,0.3);
 }
-.timeline ul li:nth-child(even) .time
+.timeline ul2 li:nth-child(even) .time
 {
 	position: absolute;
 	top: 12px;
