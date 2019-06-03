@@ -261,7 +261,7 @@ button:hover:after
 	padding: 8px 16px;
 	background: rgba(255,0,0,1);
 	color: #fff;
-	list-style-image: url('sqpurple.gif');
+	border-radius: 18px;
 	box-shadow: 0 0 0 3px rgba(255,0,0,0.3);
 }
 .timeline ul2 li:nth-child(even) .time
@@ -273,7 +273,7 @@ button:hover:after
 	padding: 8px 16px;
 	background: rgba(255,0,0,1);
 	color: #fff;
-	list-style-image: url('sqpurple.gif');
+	border-radius: 18px;
 	box-shadow: 0 0 0 3px rgba(255,0,0,0.3);
 }
 
