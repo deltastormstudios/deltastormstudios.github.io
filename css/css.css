@@ -10,7 +10,7 @@ nav
 //text in navigating bar
 ul {
   list-style-type: none;
-  position: absolute;
+  position: relative;
   margin: 0;
   padding: 0;
   text-align: center;	
