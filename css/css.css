@@ -2,14 +2,15 @@ html
 {
 	background-color: black;
 }
+//navigating bar
 nav
 {
 	text-align: center;
-	position: absolute;
 }
+//text in navigating bar
 ul {
   list-style-type: none;
-  position: relative;
+  position: absolute;
   margin: 0;
   padding: 0;
   text-align: center;	
