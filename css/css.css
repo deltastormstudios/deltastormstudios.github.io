@@ -2,13 +2,13 @@ html
 {
 	background-color: black;
 }
-//navigating bar
 nav
 {
 	text-align: center;
 }
-//text in navigating bar
-ul {
+
+ul 
+{
   list-style-type: none;
   position: relative;
   margin: 0;
