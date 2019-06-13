@@ -67,11 +67,7 @@ h1
 }
 body div section
 {
-	overflow: hidden;
-	text-align: center; 
-	border-style: solid;
-	border-color: white;
-	border-radius: 5px;
+
 }
 #articles
 {
@@ -94,7 +90,21 @@ body div section div article h3
 	overflow: hidden;
 	background-color: #8B0000;
 	text-align: left;
-	border-radius: 5px;
+}
+body div section div article p img
+{
+	margin: 5px;
+	padding: 5px;
+	overflow: hidden;
+	background-color: #fff;
+	text-align: center;
+	height:50%;
+	width:50%;
+}
+body div section h2
+{
+	background-color: none;
+	text-align: center;
 }
 body div section div article p
 {
@@ -103,8 +113,6 @@ body div section div article p
 	text-align:justify;
 	overflow: hidden;
 	background-color: #8B0000;
-	border-radius: 5px;
-	
 }
 body div section div article p sub
 {
@@ -113,7 +121,6 @@ body div section div article p sub
 	text-align:right;
 	overflow: hidden;
 	background-color: #8B0000;
-	border-radius: 5px;
 	
 }
 p 
