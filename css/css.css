@@ -131,7 +131,7 @@ p
 	font-family: "Monospace", Courier New;
 	text-align:center;
 } 
-#trailer
+.trailer
 {
 	width:1280px;
 	height:720px;
