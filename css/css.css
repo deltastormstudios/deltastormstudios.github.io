@@ -41,7 +41,7 @@ h1
 }
 #frame
 {
-	text-align: justify;	
+	text-align: center;	
 	height: content-box;
 	position: absolute;
 	background: rgba(0, 0, 0, 0.7);
