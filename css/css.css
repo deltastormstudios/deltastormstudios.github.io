@@ -57,7 +57,7 @@ h1
 	height:124px;
 	width: 848px;
 	size:75%;
-	position: fixed;
+	position: relative;
 }
 #backVid {
 	position: fixed;
