@@ -56,7 +56,8 @@ h1
 	text-align:center;
 	height:124px;
 	width: 848px;
-	size:75%
+	size:75%;
+	position: fixed;
 }
 #backVid {
 	position: fixed;
