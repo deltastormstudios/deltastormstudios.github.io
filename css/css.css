@@ -133,9 +133,11 @@ p
 } 
 .trailer
 {
+	width:640px;
+	height:360px;
+	text-align:center;
 	position: relative;
-	width: 80%;
-	height: 160%;
+	size: 80%;
 }
 
 
