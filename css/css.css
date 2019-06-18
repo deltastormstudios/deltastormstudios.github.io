@@ -267,7 +267,35 @@ p
 .timeline
 {
 	width: 100%;
+	padding-bottom: 0;
 }
+	.timeline:before
+	{
+		left:20px;
+	}
+	.timeline ul2 li:nth-child(odd),
+	.timeline ul2 li:nth-child(even)
+	{
+		width: 100%;
+		text-align:left;
+		padding-left:50px;
+		padding-bottom:50px;
+	}
+	.timeline ul2 li:nth-child(odd):before,
+	.timeline ul2 li:nth-child(even):before
+	{
+		top: -18px;
+		left: 16px;
+	}
+	.timeline ul2 li:nth-child(odd) .time,
+	.timeline ul2 li:nth-child(even) .time
+	{
+		top: -30px;
+		left: 50px;
+		right: inherit;
+	}
+	
 }
+
 
 		
