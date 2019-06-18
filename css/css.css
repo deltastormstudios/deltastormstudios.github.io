@@ -51,6 +51,7 @@ h1
 	left: 25%;
 
 }
+/*The thumbnail on top*/
 #thumbnail
 {
 	text-align:center;
@@ -61,6 +62,7 @@ h1
 	height: 80%;
 	width: 80%;
 }
+/*Background video*/
 #backVid {
 	position: fixed;
 	right: 0;
