@@ -139,12 +139,11 @@ p
 	overflow:hidden;
 }
 
-.trailer iframe, .trailer object, .trailer embed {
+.trailer iframe, .trailer object, .trailer embed
+{
 	position:absolute;
 	top:0;
 	left:0;
-	max-width:360px;
-	max-height:640px;
 }
 
 
