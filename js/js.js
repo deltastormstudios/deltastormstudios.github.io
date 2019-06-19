@@ -10,7 +10,7 @@ function countdown(){
     else if(rdays>=0){
     document.getElementById("releaseTime").innerHTML="A new video will get released within a day.";
     }
-    else if(days<0){
+    else if(rdays<0){
     document.getElementById("releaseTime").innerHTML="The new videos' release date isn't yet determined.";
     }
   }
