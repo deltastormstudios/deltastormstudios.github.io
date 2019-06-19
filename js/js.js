@@ -3,7 +3,7 @@ function countdown(){
     var Time= new Date();
     var leftTime= setTime.getTime()-Time.getTime();
     var days = Math.floor(leftTime/1000/60/60/24);
-    var rdays= leftTime/1000/60/60/24
+    var rdays= leftTime/1000/60/60/24;
     if(rdays>=1){
     document.getElementById("days").innerHTML=days;
     }
