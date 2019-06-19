@@ -13,7 +13,7 @@ function countdown(){
     else if(days<1){
     document.getElementById("releaseTime").innerHTML="A new video has been released.";
     }
-    else if(days<1){
+    else if(days<2){
     document.getElementById("releaseTime").innerHTML="The new videos' release date hasn't yet been determined.";
     } 
   }
