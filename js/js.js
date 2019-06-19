@@ -1,5 +1,5 @@
 function countdown(){
-    var setTime= new Date("June 20, 2019 00:00:00");
+    var setTime= new Date("June 24, 2019 00:00:00");
     var Time= new Date();
     var leftTime= setTime.getTime()-Time.getTime();
     var days = Math.floor(leftTime/1000/60/60/24);
