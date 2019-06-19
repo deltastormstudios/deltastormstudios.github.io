@@ -4,7 +4,8 @@ html
 }
 nav
 {
-	text-align: center
+	text-align: center;
+	width: 100;	
 }
 
 ul 
@@ -35,10 +36,16 @@ li a {
 li a:hover {
   background-color: #590000;
 }
+/*
+THIS IS FOR ALL THE H1 TITLES
+*/
 h1 
 {
 	text-align: center;
 }
+/*
+THIS IS THE BLACK BOX IN THE BACKGROUND
+*/
 #frame
 {
 	text-align: center;	
@@ -51,7 +58,9 @@ h1
 	left: 25%;
 
 }
-/*The thumbnail on top*/
+/*
+THE THUMBNAIL ON TOP
+*/
 #thumbnail
 {
 	text-align:center;
@@ -62,7 +71,9 @@ h1
 	height: 80%;
 	width: 80%;
 }
-/*Background video*/
+/*
+BACKGROUND VIDEO
+*/
 #backVid {
 	position: fixed;
 	right: 0;
@@ -74,6 +85,9 @@ body div section
 {
 
 }
+/*
+THIS IS FOR THE UPDATES ON THE UPDATES PAGE
+*/
 #articles
 {
 	padding: 10px;
@@ -128,11 +142,17 @@ body div section div article p sub
 	background-color: #8B0000;
 	
 }
+/*
+NO IDEA WHAT THIS IS FOR
+*/
 p 
 {
 	font-family: "Monospace", Courier New;
 	text-align:center;
 } 
+/*
+THIS IS FOR THE TRAILER VIDEO ON THE FRONT PAGE
+*/
 .trailer {
 	position:relative;
 	padding-bottom:56.25%;
@@ -148,6 +168,9 @@ p
 	width:100%;
 	height:100%;
 }
+/*
+THIS IS FOR THE CHANNEL VIDEOS PLAYLIST
+*/
 .channel-videos {
 	position:relative;
 	padding-bottom:56.25%;
@@ -164,7 +187,9 @@ p
 	height:100%;
 }
 
-
+/*
+THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
+*/
 .timeline
 {
 	position: relative;
