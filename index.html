@@ -34,6 +34,20 @@
 	  <iframe width="360" height="640" src="https://www.youtube.com/embed/YIONbYS-HjI" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"></iframe>
 		 </div>
          </section>
+		 <section>
+			<h4>Viewscounter: <span id="vw">0</span><h4>
+			<script>
+				function view_counter(){
+					var vcounter = document.getElementById("vw").innerHTML;
+					var views= 0;
+					views = parseInt(vcounter) + 1;
+					console.log(views);
+					console.log(parseInt(vcounter));
+					vcounter.innerHTML = parseInt(views.value);
+				}
+				window.onload = view_counter;
+			</script>
+		 </section>
          <footer>
             <p><em> ©Igor Evdokimov & Aqiel Oostenbrug (ICT-Project, 2019)</em></p>
          </footer>
