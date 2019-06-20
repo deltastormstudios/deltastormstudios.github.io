@@ -5,7 +5,7 @@ function countdown(){
     var days = Math.floor(leftTime/1000/60/60/24);
     var rdays= leftTime/1000/60/60/24;
     if(rdays>=1){
-    document.getElementById("days").innerHTML=days;
+    document.getElementById("releaseTime").innerHTML=days + " day(s) left until a new video releases.";
     }
     else if(rdays>=-0.5){
     document.getElementById("releaseTime").innerHTML="A new video will get released within a day.";
