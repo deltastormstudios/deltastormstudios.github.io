@@ -351,8 +351,10 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 }
 .scarlet
 {
-	position: relative;
-	height: 320;
-	width: 240;
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
 }
 		
