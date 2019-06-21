@@ -37,7 +37,7 @@ li a:hover {
   background-color: #590000;
 }
 /*
-THIS IS FOR ALL THE H1 TITLES
+THIS IS FOR ALL THE TITLES
 */
 h1 
 {
@@ -45,6 +45,14 @@ h1
 	font-family: 'Electrolize', sans-serif;
 }
 h2
+{
+	font-family: 'Electrolize', sans-serif;
+}
+h3
+{
+	font-family: 'Electrolize', sans-serif;
+}
+h4
 {
 	font-family: 'Electrolize', sans-serif;
 }
