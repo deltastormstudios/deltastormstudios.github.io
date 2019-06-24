@@ -120,6 +120,7 @@ body div section div article
 	overflow: hidden;
 	background-color: black;
 	text-align: center;
+	border-radius: 10px;
 }
 body div section div article h3
 {
