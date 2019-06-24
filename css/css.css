@@ -381,9 +381,9 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 {
 	margin: 5px;
 	padding: 5px;
-	text-align:right;
+	text-align:center;
 	overflow: hidden;
 	position: relative;
 	width: 50%;
-	right: 50%;
+	right: -50%;
 }
