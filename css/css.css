@@ -371,7 +371,8 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 }
 .downloads
 {
-	color: #8B0000;
+	padding: 0px;
+	margin: 0px;
 }
 #scarlet
 {
