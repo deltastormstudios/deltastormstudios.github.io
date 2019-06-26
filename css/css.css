@@ -390,6 +390,16 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 	overflow: hidden;
 	position: relative;
 	width: 50%;
+	right: 50%;
+}
+.about_paragraph_2
+{
+	margin: 5px;
+	padding: 5px;
+	text-align:justify;
+	overflow: hidden;
+	position: relative;
+	width: 50%;
 	right: -50%;
 }
 .twitter-timeline
