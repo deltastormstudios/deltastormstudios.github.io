@@ -390,7 +390,7 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 	overflow: hidden;
 	position: relative;
 	width: 49%;
-	left: -50%;
+	right: 0%;
 }
 .about_paragraph_2
 {
