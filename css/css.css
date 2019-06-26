@@ -394,4 +394,6 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 .twitter-timeline
 {
 	left:0%;
+	margin: 5px;
+	padding: 0px;
 }
