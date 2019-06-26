@@ -384,9 +384,7 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 }
 .table_about:after 
 {
-  content: "";
-  display: table;
-  clear: both;
+  display: flex;
 }
 .about_paragraph
 {
