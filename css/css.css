@@ -388,19 +388,14 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 }
 .about_paragraph
 {
-	margin: 5px;
-	padding: 5px;
 	text-align:justify;
 	overflow: hidden;
 	position: relative;
 	float: left;
 	width: 45%;
-	padding: 10px;
 }
 .about_paragraph_2
 {
-	margin: 5px;
-	padding: 5px;
 	text-align:justify;
 	overflow: hidden;
 	position: relative;
