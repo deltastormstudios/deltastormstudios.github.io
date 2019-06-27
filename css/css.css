@@ -393,7 +393,6 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 	overflow: hidden;
 	position: static;
 	float: left;
-	width: 45%;
 }
 .about_paragraph_2
 {
@@ -404,7 +403,6 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 	position: relative;
 	top: 5px;
 	float: left;
-	width: 45%;
 }
 .contact_me
 {
