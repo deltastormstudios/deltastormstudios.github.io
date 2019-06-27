@@ -410,8 +410,8 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 }
 #selfie
 {
-	height: 30%;
-	width: auto;
+	height: auto;
+	width: 30%;
 	text-align: left;
 	position: relative;
 }
