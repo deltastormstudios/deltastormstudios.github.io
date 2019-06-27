@@ -388,6 +388,7 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 }
 .about_paragraph
 {
+	margin:5px;
 	text-align:justify;
 	overflow: hidden;
 	position: relative;
