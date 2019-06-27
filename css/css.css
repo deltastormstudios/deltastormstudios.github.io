@@ -68,7 +68,6 @@ THIS IS THE BLACK BOX IN THE BACKGROUND
 #frame
 {
 	text-align: center;	
-	height: content-box;
 	position: absolute;
 	background: rgba(0, 0, 0, 0.7);
 	color: #f1f1f1;
