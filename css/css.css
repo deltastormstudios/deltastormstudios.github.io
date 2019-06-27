@@ -389,6 +389,7 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 .about_paragraph
 {
 	margin:5px;
+	padding:10px;
 	text-align:justify;
 	overflow: hidden;
 	position: relative;
@@ -397,6 +398,8 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 }
 .about_paragraph_2
 {
+	margin:5px;
+	padding:5px;
 	text-align:justify;
 	overflow: hidden;
 	position: relative;
