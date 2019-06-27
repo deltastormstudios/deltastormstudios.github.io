@@ -393,16 +393,6 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 	position: static;
 	float: left;
 }
-.about_paragraph_2
-{
-	margin:5px;
-	padding:5px;
-	text-align:justify;
-	overflow: hidden;
-	position: relative;
-	top: 5px;
-	float: left;
-}
 .contact_me
 {
 	text-align: center;
@@ -412,6 +402,7 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 {
 	height: auto;
 	width: 45%;
+	padding-right: 5px;
 	text-align: left;
 	position: relative;
 }
