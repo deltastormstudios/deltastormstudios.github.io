@@ -8,9 +8,9 @@ function countdown() {
         document.getElementById("releaseTime").innerHTML = days + " day(s) left until a new video releases.";
     } else if (rdays >= -0.5) {
         document.getElementById("releaseTime").innerHTML = "A new video will get released within a day.";
-    } else if (days >= 1) {
+    } else if (days <= 1) {
         document.getElementById("releaseTime").innerHTML = "A new video has been released.";
-    } else if (days >= 1.01) {
+    } else if (days => 1.01) {
         document.getElementById("releaseTime").innerHTML = "The new videos' release date hasn't yet been determined.";
     }
 }
