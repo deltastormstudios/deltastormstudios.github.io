@@ -1,7 +1,13 @@
+/*
+WEBSITE BACKGROUND THAT IS UNDER THE VIDEO
+*/
 html 
 {
 	background-color: black;
 }
+/*
+THIS IS FOR THE NAVIGATION BAR
+*/
 nav
 {
 	text-align: center;
@@ -127,7 +133,7 @@ body div section div article h3
 	overflow: hidden;
 	background-color: #8B0000;
 	text-align: left;
-	border-radius: 10px;
+	border-radius: 5px;
 }
 body div section div article p img
 {
@@ -164,7 +170,7 @@ body div section div article p sub
 	
 }
 /*
-NO IDEA WHAT THIS IS FOR
+THIS IS THE FONT FOR THE PARAGRAPHS
 */
 p 
 {
@@ -224,8 +230,8 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 {
 	content: '';
 	position: absolute;
-	left 50%;
-	width: 2px;
+        left: 50%;
+	width: 2 px;
 	height: 100%;
 	background: #8B0000;
 }
@@ -305,7 +311,7 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 {
 	position: absolute;
 	top: 12px;
-	right: -165px;
+	right: -185px;
 	margin: 0;
 	padding: 8px 16px;
 	background: rgba(255,0,0,1);
@@ -317,7 +323,7 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 {
 	position: absolute;
 	top: 12px;
-	left: -165px;
+	left: -185px;
 	margin: 0;
 	padding: 8px 16px;
 	background: rgba(255,0,0,1);
@@ -327,6 +333,7 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 }
 @media (max-width: 1300px)
 {
+}
 .timeline
 {
 	width: 100%;
@@ -359,6 +366,9 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 	}
 	
 }
+/*
+THIS IS THE CODE FOR THE RELEASE COUNTER AT THE BOTTOM OF THE WEBSITE
+*/
 #releaser
 {
 	background-color:#8B0000;
@@ -366,6 +376,9 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 	font-family: 'Electrolize', sans-serif;
 	font-size: 20px;
 }
+/*
+THIS IS CODE FOR THE DOWNLOADS ON THE DOWNLOADS PAGE
+*/
 .downloads
 {
 	padding: 0px;
@@ -374,11 +387,14 @@ THIS IS ALL TIMELINE STUFF UNDER THIS TEXT
 #scarlet
 {
 	position:relative;
-	width:65%;
+	width:70%;
 	height:auto;
 	margin: 0px;
 	padding: 0px;
 }
+/*
+THIS IS ALL FOR THE TEXT AND IMAGES ON THE ABOUT PAGE
+*/
 .table_about:after 
 {
   display: flex;
